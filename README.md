@@ -69,5 +69,3 @@ This project is integrated with **Langfuse**. Every travel plan generated is log
 
 ---
 *Built with ❤️ using LangChain, Streamlit, and OpenRouter.*
-
-# multi-agent-travel-planner

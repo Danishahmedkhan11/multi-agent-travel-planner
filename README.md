@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory and add your keys:
 ```env
 OPENROUTER_API_KEY=your_key_here
-TEAM_NAME=your_team_name
+TEAM_NAME=your_team_name (Optional)
 LANGFUSE_PUBLIC_KEY=your_public_key
 LANGFUSE_SECRET_KEY=your_secret_key
 LANGFUSE_HOST=https://cloud.langfuse.com
